@@ -1,3 +1,36 @@
+body {
+  background: linear-gradient(180deg, #f8fbf5 0%, #f3f6ef 100%);
+  color: #213021;
+}
+
+.navbar-brand {
+  font-weight: 700;
+}
+
+.card {
+  border-radius: 1rem;
+}
+
+.btn-primary {
+  background-color: #2f6f3f;
+  border-color: #2f6f3f;
+}
+
+.btn-primary:hover {
+  background-color: #255a33;
+  border-color: #255a33;
+}
+
+.btn-outline-primary {
+  color: #2f6f3f;
+  border-color: #2f6f3f;
+}
+
+.btn-outline-primary:hover {
+  background-color: #eaf4ea;
+  color: #2f6f3f;
+}
+
 .collection-card-image {
   height: 180px;
 }

@@ -1,10 +1,10 @@
-# Specification: [Your App Idea Name]
+# Specification: [Kyron's Lawncare & Maintence]
 
-App description: [Write a one or two sentences describing what your app does and who it’s for.]
+App description: [My website explains how to book with me for a lawncare service.]
 
 ## Style and Theme
 
-[Describe the look and feel of your app.] 
+[Describe the look and feel of your .] 
 
 Overall mood:
 Examples: fun and playful, calm and professional, bold and energetic, etc.
@@ -15,7 +15,7 @@ Use the *style-guide.html* for details on styling -- fonts, colors, and layout.
 
 ### Story 1 (most important)
 
-[Write 1-2 sentences. Who is using the app, what do they want to do, and what do they see when it works? Write it like you are describing it to a friend.]
+[Write 1-2 sentences. ]
 
 ---
 

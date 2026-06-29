@@ -8,13 +8,18 @@ export default {
     };
   },
   template: /* html */ `
-    <section class="container py-4">
-      <div class="d-flex justify-content-between align-items-center mb-3">
-        <h1 class="h3 mb-0">Collection</h1>
+    <section class="container py-4 py-lg-5">
+      <div class="d-flex flex-column flex-md-row justify-content-between align-items-md-center gap-2 mb-3">
+        <div>
+          <h1 class="h3 mb-1">Services & local highlights</h1>
+          <p class="text-muted mb-0">Browse the featured places and services that make this neighborhood feel welcoming.</p>
+        </div>
         <span class="badge text-bg-light border">{{ itemsStore.items.length }} shown</span>
       </div>
 
-      <p class="text-muted">Browse a simple dataset loaded from a CSV file.</p>
+      <div class="alert alert-success border-0 mb-4" role="status">
+        <i class="bi bi-stars me-2"></i>Need support for your yard or property? Reach out for a custom lawncare plan.
+      </div>
 
       <div v-if="itemsStore.isLoading" class="alert alert-secondary" role="status">
         Loading items...
