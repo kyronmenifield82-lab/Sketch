@@ -57,8 +57,6 @@ export default {
                 {{ item.description || 'No description available.' }}
               </p>
 
-              <p class="small mb-3"><strong>Location:</strong> {{ item.location || 'N/A' }}</p>
-
               <div class="d-grid">
                 <router-link :to="'/items/' + item.id" class="btn btn-outline-secondary btn-sm">
                   View details

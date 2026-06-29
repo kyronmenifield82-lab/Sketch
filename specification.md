@@ -47,7 +47,6 @@ Use this as the basic item shape from the current starter data file.
 	- description
 	- category
 	- image_url
-	- location
 
 ## Success Criteria
 

@@ -1,11 +1,11 @@
-id,name,description,category,image_url,location
-coffee-corner,Lawnmowing,Clean lawn mowing and yard maintenance to keep your property looking sharp and well kept.,Cafe,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2aNO3Aafeyacqd8QqpQecCQ7HIjFQDW-ASA&s,Main Street
-green-grocer,Weed Eating,Precise weed trimming and edge cleanup to keep your lawn looking neat and tidy.,Grocery,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGh1BnigKtm3ciJUTej75xk39QmOiUagfI8w&s,River District
-book-nook,Yard Cleanup,"Professional yard cleanup to remove debris, tidy up outdoor spaces, and keep your property looking fresh.",Bookstore,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZyZPNkXFcnudYS6xN8PqrFknFQ87j1OTbVA&s,Oak Avenue
-fit-studio,Fit Studio,Small-group fitness classes for beginners and busy professionals,Fitness,https://picsum.photos/seed/fit-studio/800/600,North Plaza
-tech-stop,Tech Stop,Device accessories repair and setup help for phones and laptops,Electronics,https://picsum.photos/seed/tech-stop/800/600,Central Mall
-artisan-bites,Artisan Bites,Handmade sandwiches salads and daily soup specials,Restaurant,https://picsum.photos/seed/artisan-bites/800/600,Market Lane
-pet-haven,Pet Haven,Friendly pet supply shop with food toys and grooming essentials,Pet Store,https://picsum.photos/seed/pet-haven/800/600,Sunset Boulevard
-craft-hub,Craft Hub,Creative supply store for painting journaling and classroom projects,Crafts,https://picsum.photos/seed/craft-hub/800/600,West End
-city-cycles,City Cycles,Urban bike rentals tune-ups and safety gear for all ages,Sports,https://picsum.photos/seed/city-cycles/800/600,Hillside
-home-glow,Home Glow,Simple decor and lighting picks for dorms apartments and homes,Home,https://picsum.photos/seed/home-glow/800/600,Lakeside
+id,name,description,category,image_url
+lawnmowing,Lawnmowing,"Clean lawn mowing and yard maintenance to keep your property looking sharp and well kept.",Lawn Care,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2aNO3Aafeyacqd8QqpQecCQ7HIjFQDW-ASA&s
+weed-eating,Weed Eating,"Precise weed trimming and edge cleanup to keep your lawn looking neat and tidy.",Lawn Care,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGh1BnigKtm3ciJUTej75xk39QmOiUagfI8w&s
+yard-cleanup,Yard Cleanup,"Professional yard cleanup to remove debris, tidy up outdoor spaces, and keep your property looking fresh.",Lawn Care,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZyZPNkXFcnudYS6xN8PqrFknFQ87j1OTbVA&s
+hedge-trimming,Hedge Trimming,"Professional hedge and shrub trimming to maintain your landscape's shape and health.",Lawn Care,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2aNO3Aafeyacqd8QqpQecCQ7HIjFQDW-ASA&s
+tree-pruning,Tree Pruning,"Expert tree pruning and removal services to keep your trees healthy and safe.",Lawn Care,https://picsum.photos/seed/tree-pruning/800/600
+grass-seeding,Grass Seeding,"Quality grass seeding and lawn restoration to grow a thick, healthy lawn.",Lawn Care,https://picsum.photos/seed/grass-seeding/800/600
+fertilizing,Fertilizing,"Professional lawn fertilizing to promote growth and maintain a vibrant green lawn.",Lawn Care,https://picsum.photos/seed/fertilizing/800/600
+landscaping,Landscaping Design,"Creative landscaping design and installation to transform your outdoor space.",Lawn Care,https://picsum.photos/seed/landscaping/800/600
+pressure-washing,Pressure Washing,"Professional pressure washing for driveways patios and outdoor surfaces.",Lawn Care,https://picsum.photos/seed/pressure-washing/800/600
+mulching,Mulching,"Quality mulch installation and maintenance for healthier plants and better moisture retention.",Lawn Care,https://picsum.photos/seed/mulching/800/600

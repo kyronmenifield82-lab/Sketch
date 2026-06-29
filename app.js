@@ -58,7 +58,7 @@ const app = Vue.createApp({
                 description: String(row.description || '').trim(),
                 category: String(row.category || '').trim(),
                 imageUrl: String(row.image_url || '').trim(),
-                location: String(row.location || '').trim(),
+
               }));
               itemsStore.error = '';
             }
