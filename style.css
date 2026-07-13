@@ -35,6 +35,41 @@ body {
   height: 180px;
 }
 
+.collection-card {
+  background-color: #14461c;
+  color: #ffffff;
+}
+
+.collection-card .card-body {
+  background-color: #14461c;
+}
+
+.collection-card .card-title,
+.collection-card .card-text,
+.collection-card .card-text.text-muted,
+.collection-card .collection-description,
+.collection-card .badge {
+  color: #ffffff;
+}
+
+.collection-card .btn-outline-secondary {
+  color: #ffffff;
+  border-color: #ffffff;
+}
+
+.collection-card .btn-outline-secondary:hover {
+  background-color: rgba(255,255,255,0.1);
+}
+
+.clean-yards-card {
+  background-color: #1b4517;
+  color: #ffffff;
+}
+
+.clean-yards-card h2 {
+  font-weight: 700;
+}
+
 .collection-description {
   display: -webkit-box;
   line-clamp: 3;
